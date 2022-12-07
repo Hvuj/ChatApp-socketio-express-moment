@@ -11,7 +11,7 @@
   "author": "Hvuj",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "moment": "^2.26.0",
     "socker.io": "0.0.0-alpha-beta",
     "socket.io": "^2.3.0"
